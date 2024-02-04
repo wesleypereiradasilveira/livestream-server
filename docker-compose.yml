@@ -6,4 +6,4 @@ services:
       - ./stream:/hls/live
     ports:
       - "1935:1935"
-      
+      - "8080:8080"
